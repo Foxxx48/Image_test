@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image test</string>
+    <string name="button_name">Press to get random image</string>
+    <string name="random_number">Random number: </string>
+</resources>
